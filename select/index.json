@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Cannabis",
+  "base_artist": "999dobby",
+  "createdAt": "2026-03-06T14:53:18.885998Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cannabis",
+      "artist": "Serge Gainsbourg",
+      "has_synced": false,
+      "path": "select/01_Cannabis_Serge_Gainsbourg.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cannabis",
+      "artist": "Serge Gainsbourg",
+      "has_synced": true,
+      "path": "select/02_Cannabis_Serge_Gainsbourg.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cannabis",
+      "artist": "Ska-P",
+      "has_synced": false,
+      "path": "select/03_Cannabis_Ska-P.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "El Señor de los Cielos (feat. Revolver Cannabis)",
+      "artist": "Ariel Camacho y Los Plebes Del Rancho feat. Revolver Cannabis",
+      "has_synced": true,
+      "path": "select/04_El_Señor_de_los_Cielos_(feat._Revolver_Cannabis)_Ariel_Camacho_y_Los_Plebes_Del_Rancho_feat._Revolver_Cannabis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Con Un Puño De Cannabis",
+      "artist": "El de La Guitarra",
+      "has_synced": true,
+      "path": "select/05_Con_Un_Puño_De_Cannabis_El_de_La_Guitarra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Vida Truncada (feat. Revolver Cannabis)",
+      "artist": "Ariel Camacho y Los Plebes Del Rancho feat. Revolver Cannabis",
+      "has_synced": true,
+      "path": "select/06_Vida_Truncada_(feat._Revolver_Cannabis)_Ariel_Camacho_y_Los_Plebes_Del_Rancho_feat._Revolver_Cannabis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cannabis",
+      "artist": "Cartel de Santa",
+      "has_synced": true,
+      "path": "select/07_Cannabis_Cartel_de_Santa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cannabis (En Vivo)",
+      "artist": "Cartel de Santa",
+      "has_synced": true,
+      "path": "select/08_Cannabis_(En_Vivo)_Cartel_de_Santa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cannabis",
+      "artist": "Ska-P",
+      "has_synced": true,
+      "path": "select/09_Cannabis_Ska-P.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cannabis",
+      "artist": "Melendi",
+      "has_synced": true,
+      "path": "select/10_Cannabis_Melendi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cannabis - BOF Cannabis",
+      "artist": "Serge Gainsbourg",
+      "has_synced": true,
+      "path": "select/11_Cannabis_-_BOF_Cannabis_Serge_Gainsbourg.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cannabis",
+      "artist": "Gainsbourg, Serge",
+      "has_synced": true,
+      "path": "select/12_Cannabis_Gainsbourg,_Serge.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Toquezones de Cannabis",
+      "artist": "El Komander",
+      "has_synced": false,
+      "path": "select/13_Toquezones_de_Cannabis_El_Komander.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cannabis",
+      "artist": "Serge Gainsbourg",
+      "has_synced": true,
+      "path": "select/14_Cannabis_Serge_Gainsbourg.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cannabis (B.O.F. \"Cannabis\")",
+      "artist": "Serge Gainsbourg",
+      "has_synced": true,
+      "path": "select/15_Cannabis_(B.O.F.__Cannabis_)_Serge_Gainsbourg.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cannabis (En Directo)",
+      "artist": "Ska-P",
+      "has_synced": true,
+      "path": "select/16_Cannabis_(En_Directo)_Ska-P.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Cannabis",
+      "artist": "Ludwig Von 88",
+      "has_synced": false,
+      "path": "select/17_Cannabis_Ludwig_Von_88.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cannabis",
+      "artist": "999dobby",
+      "has_synced": false,
+      "path": "select/pl_01_Cannabis_999dobby.txt"
+    }
+  ]
+}
